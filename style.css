@@ -1,0 +1,13 @@
+.??? {
+  /* Write the name of the class*/
+  background-color: ???; /* Choose a color for the background (e.g., lightblue, #ffcc00) */
+  color: ???; /* Choose a text color that looks good on your background */
+  font-size: ???px; /* Choose a font size in pixels (e.g., 18, 24, 32) */
+  text-align: left; /* Try 'center', 'left', or 'right' */
+  padding: 0px; /* Add spacing inside the box (e.g., 10px, 20px) */
+  border: 0px white; /* Choose a border width and color (e.g., 2px solid black) */
+  font-family: ???; /* Choose a font (e.g., Arial, 'Comic Sans MS', 'Courier New') */
+  border-radius: ???px; /* Round the corners (e.g., 10, 20, 50) */
+  margin: 50px auto; /* Keeps your nametag centered vertically */
+  max-width: ???px; /* Set a max width for your tag (e.g., 300, 400) */
+}
